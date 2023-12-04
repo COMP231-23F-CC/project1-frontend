@@ -6,13 +6,13 @@ WORKDIR /app
 
 # 复制package.json并安装依赖
 COPY package*.json ./
-RUN npm install
+RUN pnpm install
 
 # 复制项目文件
 COPY . .
 
 # 构建应用程序
-RUN npm run build
+RUN pnpm run build
 
 # 使用nginx来部署应用
 FROM nginx:stable-alpine
