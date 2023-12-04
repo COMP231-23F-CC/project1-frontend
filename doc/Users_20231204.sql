@@ -1,0 +1,10 @@
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (2, 'Jane Smith', 'jane.smith@example.com', '0987654321', 'hashed_password');
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (3, 'Alice Johnson', 'alice.johnson@example.com', '2345678901', 'hashed_password');
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (4, 'Bob Brown', 'bob.brown@example.com', '3456789012', 'hashed_password');
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (5, 'Charlie Davis', 'charlie.davis@example.com', '4567890123', 'hashed_password');
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (6, 'Diana Evans', 'diana.evans@example.com', '5678901234', 'hashed_password');
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (7, 'Edward Fox', 'edward.fox@example.com', '6789012345', 'hashed_password');
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (8, 'Grace Hill', 'grace.hill@example.com', '7890123456', 'hashed_password');
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (9, 'Henry Ice', 'henry.ice@example.com', '8901234567', 'hashed_password');
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (10, 'Irene Joker', 'irene.joker@example.com', '9012345678', 'hashed_password');
+INSERT INTO "Users" ("Id", "Name", "Email", "PhoneNumber", "Password") VALUES (1, 'John Doe', 'john.doe@example.com', '8888', '888888');

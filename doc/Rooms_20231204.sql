@@ -1,0 +1,11 @@
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (1, '101', 'Single', '100.00', 'Available', 'Cozy single room with a view', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (2, '102', 'Single', '100.00', 'Occupied', 'Single room with excellent lighting', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (3, '103', 'Double', '150.00', 'Available', 'Spacious double room', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (4, '104', 'Double', '150.00', 'Occupied', 'Double room with two beds', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (5, '105', 'Suite', '300.00', 'Available', 'Luxurious suite with a balcony', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (6, '201', 'Single', '120.00', 'Available', 'Single room with extra amenities', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (7, '202', 'Double', '180.00', 'Available', 'Double room with modern decor', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (8, '203', 'Double', '180.00', 'Occupied', 'Elegant room with a double bed', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (9, '204', 'Suite', '350.00', 'Available', 'Exclusive suite with a minibar', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (10, '301', 'Single', '130.00', 'Available', 'Single room on top floor', '');
+INSERT INTO "Rooms" ("Id", "Number", "Type", "Price", "Status", "Desc", "ImgUrl") VALUES (11, 'string', 'string', '0', 'string', 'string', '');
